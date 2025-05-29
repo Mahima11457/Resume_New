@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"> 
+    <title>My resume</title>
+</head>
+<h1>Profile Photo</h1>
+<img src="../4.1 Webpages/assets/images/IMG_5366.JPG" style="height: 100px;" alt="">
+<hr/>
+<Body>
+    <ul>
+    <li><h1>About me</h1></li>
+    <li><h4>I am working as a busniess analyst with 4 years of experience</h4></li>
+    <li><h1>Education</h1></li>
+    <ol>
+        <li><h4>MBA</h4></li>
+        <li><h4>Btech</h4></li>
+        <li><h4>12th</h4></li>
+    </ol>
+    <li><h1>Work experience</h1></li>
+    <ol>
+        <li>
+            <h4>Odessa</h4>
+        </li>
+        <li>
+            <h4>JBM</h4>
+        </li>
+    </ol>
+    </ul>
+</Body>
+<hr/>
+<h3>Contact me</h3>
+<a href="./public/contact.html"></a>
